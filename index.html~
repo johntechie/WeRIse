@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
+
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
     <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" type="text/css" href="css/foundation.css">
-   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-   <script src="script.js"></script>
     <title>HarambeeApp</title>
-</head>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
 
 
 
@@ -200,17 +200,18 @@
         jssor_1_slider_init();
     </script>
 
-    <div class="row"><br><br><br><br>
-    <center><h2>What can you fundraise using HarambeeApp!</h2></center><br><br>
-    	<div class="large-4 columns"><img src="img/003.jpg"></div>
-    	<div class="large-4 columns"><img src="img/003.jpg"></div>
-    	<div class="large-4 columns"><img src="img/003.jpg"></div>
+    <div class="rows" style="height: 300px;">
+    <h2>What can you fundraise using HarambeeApp!</h2>
+    	<div large-4 columns><img src="img/003.jpg"></div>
+    	<div large-4 columns><img src="img/003.jpg"></div>
+    	<div large-4 columns><img src="img/003.jpg"></div>
     </div>
-     <div class="row">
-    	<div class="large-4 columns"><img src="img/003.jpg"></div>
-    	<div class="large-4 columns"><img src="img/003.jpg"></div>
-    	<div class="large-4 columns"><img src="img/003.jpg"></div>
-     </div>
+     <div class="rows" style="height: 300px;">
+    <h2>What can you fundraise using HarambeeApp!</h2>
+    	<div large-4 columns><img src="img/003.jpg"></div>
+    	<div large-4 columns><img src="img/003.jpg"></div>
+    	<div large-4 columns><img src="img/003.jpg"></div>
+    </div>
 </body>
 </html>
 
