@@ -2,7 +2,7 @@
 
 .bg-image {
   height: 100%;
-  background-image: url(img/logo.jpg);
+  background-image: url(img/hope.png);
   background-size: 100% 100%;
   background-position: top;
 
@@ -11,7 +11,20 @@
   width: 100%;
   height: 350px;
 }
+.logo {
+  height: 100%;
+  width: 100%;
+  opacity: 0.75;
+}
 
+.icon-img {
+  height: 120px;
+  border-radius: 120px;
+}
+
+.icon-column {
+  width:20px;
+}
 
 #cssmenu {
   background: #4cb6ea;
@@ -375,4 +388,9 @@
     right: 20px;
     top: 26px;
   }
+}
+.body {
+  background-image: url(img/hope.png);
+  background-size: 100% 100%;
+  height: 10px;
 }
